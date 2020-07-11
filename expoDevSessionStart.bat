@@ -1,0 +1,3 @@
+:: linux ...
+sudo ncu -u && npm i
+check the appstore for any updates for Expo
